@@ -1,0 +1,18 @@
+{
+  "cwd": "/home/mrmemory/Documents/Queut",
+  "type": [
+    "pwa"
+  ],
+  "name": "Queut",
+  "framework": "vue",
+  "template": "split-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#3ca33b",
+    "darkMode": true,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
